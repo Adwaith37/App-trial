@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1PFgfclMdqkQn2y2emZgl87N-XXJn6xNF
 """
 
-!pip install streamlit
 
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
